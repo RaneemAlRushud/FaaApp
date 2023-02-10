@@ -20,14 +20,19 @@
 <li> Video call consultation </li>
 <li> Bring diabetic together with people online for un-needed medicine exchange </li>
 <li> Carb counting, glucose tracking, and bolus dose calculation estimates based on their nutritional information</li>
-<li> Visualise tests history over a week period </li>
+<li> Visualise tests history over a week period and personalized dashboard </li>
 <li> Nearby gyms and healthcare stores based on the diabetic location </li>
+<li> Daily, weekly, and monthly reports, that can be shared directly with their doctor.</li>
 
 <h2> 2.2 OnBoarding </h2>
 
 <h2> 2.3 Overview </h2>
 
-<h1> 3. Technology Stack </h1>
+<h1> 3. Integrations </h1>
+
+<h1> 4. Technology Stack </h1>
+
+
 
 
 
