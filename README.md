@@ -1,4 +1,5 @@
 <h1> FaaApp </h1>
+<code> 📌 <i> Note: <br> Just begun working on this app (self-taught) </i> </code>
 
 <h1> 1. What is "Fa'a" ❔</h1>
 
