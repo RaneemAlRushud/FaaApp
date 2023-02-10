@@ -21,7 +21,7 @@
 <li> Bring diabetic together with people online for un-needed medicine exchange </li>
 <li> Carb counting, glucose tracking, and bolus dose calculation estimates based on their nutritional information</li>
 <li> Visualise tests history over a week period </li>
-<li> Nearby gyms and healthcare stored based on the diabetic location </li>
+<li> Nearby gyms and healthcare stores based on the diabetic location </li>
 
 <h2> 2.2 OnBoarding </h2>
 
