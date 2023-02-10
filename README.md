@@ -4,7 +4,7 @@
 
 <h2> 1.1 Inspiration 💡 </h2>
 
-<h3> 1.1.1 </h3>
+<h3> 1.1.1 Seed story </h3>
 <p> My youngest brother "Abdulaziz" was diagnosed with <b> T1D </b> at 4 years old and two of my sisters at 7 and 14. In the months following his diagnosis, our house was a tornado of sticky notes, each covered in hand written calculations for the exact units of insulin needed for that meal or correction. These calculations, though not difficult, depended on a multitude of factors, including his ISF, insulin duration, target blood sugar (BG), current BG, his carb ratio at that time of day, whether he was eating, when he had last dosed, and so much more. I thought that there must be a better way to manage this. With that, Diabestie was born.</p>
 
 <h3> 1.1.2 "Fa'a" group-wise: </h3>
@@ -20,7 +20,7 @@
 <li> Video call consultation </li>
 <li> Bring diabetic together with people online for un-needed medicine exchange </li>
 <li> Carb counting, glucose tracking, and bolus dose calculation estimates based on their nutritional information</li>
-<li> Visualise tests history over a weeks period </li>
+<li> Visualise tests history over a week period </li>
 <li> Nearby gyms and healthcare stored based on the diabetic location </li>
 
 <h2> 2.2 OnBoarding </h2>
